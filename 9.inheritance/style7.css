@@ -1,0 +1,7 @@
+h1{text-transform: capitalize;}
+body{
+    font-family: arial;
+    background-color: black;
+    color: rgb(206, 29, 29);
+}
+a{color: inherit;}
